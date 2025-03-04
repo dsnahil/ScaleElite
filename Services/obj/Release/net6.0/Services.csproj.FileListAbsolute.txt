@@ -1,0 +1,189 @@
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.deps.json
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.runtimeconfig.json
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.exe
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.exe
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.deps.json
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.runtimeconfig.json
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.pdb
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Google.Protobuf.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.Data.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.EntityFrameworkCore.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySqlConnector.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Text.Json.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\ZstdSharp.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.pdb
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.AssemblyReference.cache
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.AssemblyInfoInputs.cache
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.AssemblyInfo.cs
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.Up2Date
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\refint\Services.dll
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.pdb
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.genruntimeconfig.cache
+C:\Feb 7 _ Latest with Older Database\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\ref\Services.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.deps.json
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.runtimeconfig.json
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.exe
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.exe
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.deps.json
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.runtimeconfig.json
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.pdb
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Google.Protobuf.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.Data.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.EntityFrameworkCore.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySqlConnector.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Text.Json.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\ZstdSharp.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.pdb
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.AssemblyReference.cache
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.AssemblyInfoInputs.cache
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.AssemblyInfo.cs
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.Up2Date
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\refint\Services.dll
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.pdb
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.genruntimeconfig.cache
+C:\Weighmast3Web\Weighmast\WeighmastWebApi 3.0\Services\obj\Release\net6.0\ref\Services.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.deps.json
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.runtimeconfig.json
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.exe
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.exe
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.deps.json
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.runtimeconfig.json
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Services.pdb
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\BouncyCastle.Cryptography.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Google.Protobuf.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Compression.LZ4.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\K4os.Hash.xxHash.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.Data.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.Data.EntityFrameworkCore.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySql.EntityFrameworkCore.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\MySqlConnector.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Text.Json.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\ZstdSharp.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\bin\Release\net6.0\Data.pdb
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.AssemblyReference.cache
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.AssemblyInfoInputs.cache
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.AssemblyInfo.cs
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.csproj.Up2Date
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\refint\Services.dll
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.pdb
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\Services.genruntimeconfig.cache
+C:\Snahil\Project\WeighmastWebApi 3.0\Services\obj\Release\net6.0\ref\Services.dll

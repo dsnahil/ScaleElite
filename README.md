@@ -12,9 +12,9 @@ ScaleElite is a **real-time industry management system** built with **C#** and *
 
 ## Tech Stack
 
-- **Backend**: C#, **ASP.NET Core Web API**
+- **Backend**: **C#**, **ASP.NET Core Web API**
 - **Database**: **MySQL**
-- **Frontend**: (If applicable, specify any frontend tech like React, Angular, or plain HTML/CSS/JavaScript)
+- **Frontend**: **React**
 - **Reporting**: Export functionality for **CSV**, **PDF**, and **Excel**
 - **Data Sync**: Real-time synchronization for smooth business operations
 

@@ -2,6 +2,9 @@
 
 ScaleElite is a **real-time industry management system** built with **C#** and **ASP.NET Core Web API**. The system tracks vehicles, weighbridges, users, drivers, and transactions in real time, ensuring seamless data synchronization. It also provides dynamic reporting with export options in **CSV**, **PDF**, and **Excel**, and features interactive dashboards with graphs and pie charts to visualize transactions efficiently.
 
+![_- visual selection](https://github.com/user-attachments/assets/bc269c7f-5467-44ba-b733-3f70d6882361)
+
+
 ## Key Features
 
 - **Real-Time Tracking**: Monitor vehicles, weighbridges, users, drivers, and transactions as they occur, providing instant business insights.
